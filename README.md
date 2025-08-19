@@ -22,7 +22,7 @@ A simple Todo List application built with **Laravel** that demonstrates creating
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Kayleexx/todolist-app.git
+   git clone https://github.com/Kayleexx/laravel-todolist.git
    cd todolist-app
    ```
 
